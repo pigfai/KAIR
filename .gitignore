@@ -1,0 +1,14 @@
+/model_zoo
+/venv
+/testsets
+/trainsets
+/figs
+/results
+conda
+/SR
+/.idea
+/models/__pycache__/
+/options/swinir
+/options/vrt
+/utils/__pycache__
+data/__pycache__/
